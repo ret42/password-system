@@ -1,2 +1,2 @@
 # password-system
-Password system in python
+Easy password system in python
